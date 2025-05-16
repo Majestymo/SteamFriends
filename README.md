@@ -11,10 +11,3 @@
 如果你有别的更好的建议，除了下面的头像，名字，id，成为好友的日期以及备注。 想要加新的记录信息的，可以提出issue。
 
 ### 使用方法：[issue1](https://github.com/systemannounce/SteamFriends/issues/1)
-
-## Steam好友列表
-
-| Avatar                                                                            | Name               | steamid                                                                     | is_friend   | BFD                 | Remark   |
-|:----------------------------------------------------------------------------------|:-------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS          | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ✅           | 2022-08-14 01:06:38 |          |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT               | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ✅           | 2021-10-02 11:23:03 |          |
